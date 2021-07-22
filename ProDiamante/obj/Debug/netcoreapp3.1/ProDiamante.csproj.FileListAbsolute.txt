@@ -1,0 +1,12 @@
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\bin\Debug\netcoreapp3.1\ProDiamante.exe
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\bin\Debug\netcoreapp3.1\ProDiamante.deps.json
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\bin\Debug\netcoreapp3.1\ProDiamante.runtimeconfig.json
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\bin\Debug\netcoreapp3.1\ProDiamante.runtimeconfig.dev.json
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\bin\Debug\netcoreapp3.1\ProDiamante.dll
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\bin\Debug\netcoreapp3.1\ProDiamante.pdb
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\obj\Debug\netcoreapp3.1\ProDiamante.AssemblyInfoInputs.cache
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\obj\Debug\netcoreapp3.1\ProDiamante.AssemblyInfo.cs
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\obj\Debug\netcoreapp3.1\ProDiamante.csproj.CoreCompileInputs.cache
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\obj\Debug\netcoreapp3.1\ProDiamante.dll
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\obj\Debug\netcoreapp3.1\ProDiamante.pdb
+C:\Users\antonio.marques\Documents\C#\ProDiamante\ProDiamante\obj\Debug\netcoreapp3.1\ProDiamante.genruntimeconfig.cache
